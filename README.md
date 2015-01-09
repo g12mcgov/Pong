@@ -10,10 +10,10 @@ A throwback to my freshmen year Computer Science 101 class.
 Controls
 ========
 
-	* <code>u</code> - up
-	* <code>d</code> - down
-	* <code>r</code> - reset
-	* <code>x</code> - exit
+    * <code>u</code> - up
+    * <code>d</code> - down
+    * <code>r</code> - reset
+    * <code>x</code> - exit
 
 Requirements
 ========
